@@ -1,3 +1,4 @@
 helllo from github
 i am learning hwo to use git commands
 i will be better in no time
+oops forgot to add commit name
